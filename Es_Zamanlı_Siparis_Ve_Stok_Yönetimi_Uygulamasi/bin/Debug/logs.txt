@@ -1,0 +1,8 @@
+25.12.2024 16:58:57: Customer3 (Standart), Product3'den 4 adet satın aldı. Satın alma başarılı
+25.12.2024 16:59:02: Customer3 (Standart), Product5'den 5 adet satın almak istedi. Ürün stoğu yetersiz
+25.12.2024 16:59:09: Customer3 (Standart), Product1'den 5 adet satın aldı. Satın alma başarılı
+25.12.2024 16:59:47: Customer3 (Standart), Product1'den 3 adet satın aldı. Satın alma başarılı
+25.12.2024 17:00:08: Customer3 (Standart), Product8'den 2 adet satın aldı. Satın alma başarılı
+25.12.2024 17:04:27: Customer21 (Standart), Product6'den 1 adet satın aldı. Satın alma başarılı
+25.12.2024 17:04:32: Customer21 (Standart), Product3'den 3 adet satın aldı. Satın alma başarılı
+25.12.2024 17:04:38: Customer21 (Standart), Product5'den 4 adet satın almak istedi. Ürün stoğu yetersiz
